@@ -7,3 +7,26 @@ MarkupSafe==1.1.1
 Werkzeug==1.0.1
 pandas==2.2.3
 numpy==1.26.4
+# Web Frameworks (optional if you are serving models)
+Flask==3.0.2
+fastapi==0.110.2
+uvicorn==0.29.0
+gunicorn==22.0.0
+# Data Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.20.0
+
+# Model Management and Utilities
+joblib==1.4.2
+optuna==3.6.1
+# Core scientific computing
+numpy==1.26.4
+scipy==1.13.0
+pandas==2.2.3
+
+# Machine Learning
+scikit-learn==1.5.0
+xgboost==2.0.3
+lightgbm==4.3.0
+catboost==1.2.3
