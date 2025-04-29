@@ -7,11 +7,7 @@ MarkupSafe==1.1.1
 Werkzeug==1.0.1
 pandas==2.2.3
 numpy==1.26.4
-# Web Frameworks (optional if you are serving models)
-Flask==3.0.2
-fastapi==0.110.2
-uvicorn==0.29.0
-gunicorn==22.0.0
+
 # Data Visualization
 matplotlib==3.8.4
 seaborn==0.13.2
